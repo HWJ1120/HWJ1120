@@ -1,0 +1,25 @@
+{
+  "name": "webpackpractice",
+  "version": "1.0.0",
+  "description": " we are study webpack today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HWJ1120/HWJ1120.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "HWJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HWJ1120/HWJ1120/issues"
+  },
+  "homepage": "https://github.com/HWJ1120/HWJ1120#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
